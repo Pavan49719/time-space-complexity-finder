@@ -1,0 +1,7 @@
+Time complexity of the code: O(n^2)
+Size of the value [9,2,4,1,3,6,7] of the variable nums is: 64 bytes
+Size of the value  nums[i + 1], nums[i] of the variable nums[i], nums[i + 1] is: 70 bytes
+Total size used of the code is 134 bytes
+
+
+
